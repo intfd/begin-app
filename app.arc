@@ -1,0 +1,5 @@
+@app
+favicon
+
+@http
+get /*
